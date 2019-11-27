@@ -3,7 +3,7 @@ paraBench is a benchmark dataset and script to assess the quality of orthologous
 See REFERENCE for more details.
 
 ## 1. run your orthology pipeline
-You need first to run your orthology pipeline using the 17 proteomes available in the 4 files `proteomes__X-4.zip`located in the `data` folder.
+You need first to run your orthology pipeline using the 17 proteomes available in the 4 files `proteomes__X-4.zip` located in the `data` folder.
 
 These proteomes files come from the <a href="http://www.ebi.ac.uk/reference_proteomes/">Quest for Orthologs 2019 dataset</a>, with simplified sequence names to ensure that the correct names are present in the output of your orthology pipeline.
 
